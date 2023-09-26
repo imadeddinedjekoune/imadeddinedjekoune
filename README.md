@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imadeddinedjekoune&label=Profile%20views&color=0e75b6&style=flat" alt="imadeddinedjekoune" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [http://djekouneimad.com/](http://djekouneimad.com/)
+- 👨‍💻 All of my projects are available at [http://djekouneimad.com/](https://djekouneimad.com/)
 
 - 📫 How to reach me **imaddjekoune@gmail.com**
 
-- 📄 Know about my experiences [http://djekouneimad.com/resume](http://djekouneimad.com/resume)
+- 📄 Know about my experiences [http://djekouneimad.com/resume](https://djekouneimad.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
