@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **imaddjekoune@gmail.com**
 
-- 📄 Know about my experiences [Here](http://djekouneimad.com/resume)
+- 📄 Know about my experiences [Here](https://www.djekouneimad.com/static/pdf/CV%20de%20Imad%20Eddine%20Djekoune.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
